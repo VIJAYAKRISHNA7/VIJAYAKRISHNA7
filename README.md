@@ -1,8 +1,8 @@
-<div align="center" style="background-color: black; padding: 40px; border-radius: 12px; background-image: url('https://i.gifer.com/7plK.gif'); background-size: cover; background-position: center;">
+<div align="center">
   <h1 style="color: #FF6A00; font-weight: bold; font-size: 2.9em; text-shadow: 0 0 10px #FF6A00;">
     🔥 Hey! I am Vijayakrishna R.
   </h1>
-  <p align="center">
+  <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6A00&width=600&lines=Final+Year+CSE+Student;Aspiring+Software+Engineer;Python+%7C+Web+Dev+%7C+AI%2FML+Enthusiast" alt="Typing SVG"/>
   </p>
 </div>
