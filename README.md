@@ -3,7 +3,7 @@
     🔥 Hey! I am Vijayakrishna R.
   </h1>
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6A00&width=600&lines=Final+Year+CSE+Student;Aspiring+Software+Engineer;Python+%7C+Web+Dev+%7C+AI%2FML+Enthusiast" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6A00&width=600&lines=Recent+Computer Science+Graduate;Aspiring+Software+Engineer;Python+%7C+Web+Dev+%7C+AI%2FML+Enthusiast" alt="Typing SVG"/>
   </p>
 </div>
 
