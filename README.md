@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final Year CSE Student 
+- 🎓 Recent Graduate in CSE 
 - 🌱 Learning: DSA, AI/ML, UI/UX
 - 💻 Building: Medical Image Analyzer, ATM Interface in Java  
 - 🔭 Exploring: Open Source & Internship Opportunities  
