@@ -33,11 +33,15 @@
 
 ### 🚀 Projects
 
-- 🧠 AI-Based Medical Imaging Analyzer
-- 💬 Personal Portfolio
-- 🏧 ATM Interface Simulation in Java
-- Flight And Hotel Reservation in Java
-- Expense Tracker Using Python/Flask
+🧠 AI-Based Medical Imaging Analyzer
+
+💻 Personal Portfolio
+
+🏧 ATM Interface Simulation in Java
+
+✈️ Flight and Hotel Reservation in Java
+
+📊 Expense Tracker Using Python/Flask
 
 > 📂 Check them out in my pinned repositories!
 
