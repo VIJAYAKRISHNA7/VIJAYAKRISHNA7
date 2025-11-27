@@ -1,10 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A00,100:FF0000&height=230&section=header&text=Vijayakrishna%20R.&fontSize=50&fontAlignY=40&desc=Aspiring%20Software%20Engineer%20|%20Creative%20Problem%20Solver&descAlignY=70&descAlign=60"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:00FF88,100:0077FF&text=Vijayakrishna%20R.&fontAlignY=38&fontColor=00FFDD&fontSize=48&desc=Software%20Engineer%20%7CJunior%20React_Developer%20%7C%20Problem%20Solver%20%7C%20Data%20Analyst&descAlignY=70"/>
+
 </div>
 
+<!-- ========== HACKER TYPING ANIMATION ========== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hello+World!+I+am+Vijayakrishna+R.;A+Creative+Mind+with+a+Code+Compiler+Heart;Full-Stack+Developer+%7C+Java+Warrior+%7C+Pythonista;Dreaming+Big+and+Coding+Bigger!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=23&duration=3000&pause=800&color=00FF9F&center=true&vCenter=true&width=700&lines=%3E+Access+Granted...;%3E+Loading+Developer+Profile...;%3E+Welcome+to+Vijayakrishna's+Github+Space.;%3E+Java+%7C+SpringBoot+%7C+React+%7C+Python;%3E+Building+the+Future+One+Line+of+Code+at+a+Time"/>
 </div>
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" />
