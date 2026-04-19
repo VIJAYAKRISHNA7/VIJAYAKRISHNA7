@@ -58,8 +58,8 @@ Status: Building scalable web applications
 
 ---
 🔗 Project Links
-🛒 VJShopify: https://getupbro.netlify.app/
-🐺 GetUpBro: https://vjshopify.netlify.app/
+🛒 VJShopify: https://vjshopify.netlify.app/
+🐺 GetUpBro:  https://getupbro.netlify.app/
 
 
 # 📊 GITHUB STATS
