@@ -49,11 +49,17 @@ Status: Building scalable web applications
 
 ---
 
-| Project                             | Description                                                                                        | Tech Stack                           |
-| ----------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| 🔐 Auth System                      | Implements secure user authentication with JWT-based authorization and protected routes            | React, Node.js                       |
-| 📊 Internal LLM Bot Management SaaS | Admin dashboard for managing bot data, analytics, and integrations with interactive visualizations | Python, Data Visualization Libraries |
-| 🛒 E-commerce Platform              | End-to-end online shopping application with product management, cart, and order processing         | MERN Stack                           |
+| Project                             | Description                                                                                              | Tech Stack                           |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| 🔐 Auth System                      | Implements secure user authentication with JWT-based authorization and protected routes                  | React, Node.js                       |
+| 📊 Internal LLM Bot Management SaaS | Admin dashboard for managing bot data, analytics, and integrations with interactive visualizations       | Python, Data Visualization Libraries |
+| 🛒 VJShopify E-commerce Platform    | Fullstack online store with product management, cart, and order processing                               | MERN Stack                           |
+| 🐺 GetUpBro Personal Tracker        | Personal productivity and habit tracking application with goal management and progress tracking features | React, Vite, Tailwind CSS            |
+
+---
+🔗 Project Links
+🛒 VJShopify: https://getupbro.netlify.app/
+🐺 GetUpBro: https://vjshopify.netlify.app/
 
 
 # 📊 GITHUB STATS
