@@ -49,15 +49,12 @@ Status: Building scalable web applications
 
 ---
 
-# 🚀 PROJECTS
+| Project                             | Description                                                                                        | Tech Stack                           |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| 🔐 Auth System                      | Implements secure user authentication with JWT-based authorization and protected routes            | React, Node.js                       |
+| 📊 Internal LLM Bot Management SaaS | Admin dashboard for managing bot data, analytics, and integrations with interactive visualizations | Python, Data Visualization Libraries |
+| 🛒 E-commerce Platform              | End-to-end online shopping application with product management, cart, and order processing         | MERN Stack                           |
 
-| Project                | Description                       | Stack           |
-| ---------------------- | --------------------------------- | --------------- |
-| 🔐 Auth System         | Secure login & JWT authentication | React + Node    |
-| 📊 Analytics Dashboard | Data visualization dashboard      | Python + Charts |
-| 🛒 E-commerce Platform | Fullstack online store            | MERN Stack      |
-
----
 
 # 📊 GITHUB STATS
 
