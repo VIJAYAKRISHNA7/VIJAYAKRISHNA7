@@ -31,10 +31,10 @@
 ```yaml
 Name: Vijayakrishna R
 Location: India 🇮🇳
-Role: Application Developer
-Focus: React | Java | APIs
-Learning: System Design & Advanced JavaScript, Java Core
-Status: Building scalable web applications
+Role: Application Engineer | Freelancer
+Focus: React | Java | APIs | Gen Ai | LLM | RAG | Automation 
+Learning: Gen Ai , LLM , RAG , Automation , Python , System Design & Advanced JavaScript, Java Core
+Status: Building scalable web applications , Gen Ai Products
 ```
 
 ---
