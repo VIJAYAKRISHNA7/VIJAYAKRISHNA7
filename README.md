@@ -10,7 +10,7 @@
 
 # 👨‍💻 Vijayakrishna R.
 
-### `Software Engineer` | `React Developer` | `Gen Ai` | Vibe Coder
+### `Software Engineer` | `React Developer` | `Gen Ai` | `Vibe Coder`
 
 <img src="https://komarev.com/ghpvc/?username=VIJAYAKRISHNA7&label=PROFILE+VIEWS&color=00ff41&style=flat" />
 
