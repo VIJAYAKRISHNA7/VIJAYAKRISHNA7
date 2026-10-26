@@ -2,7 +2,7 @@
 
 # VIJAYAKRISHNA R.
 
-### AI DEVELOPER · FULL-STACK ENGINEER · GENAI BUILDER
+### AI DEVELOPER · FULL-STACK ENGINEER 
 
 **Building AI-powered applications, intelligent systems & scalable web products.**
 
