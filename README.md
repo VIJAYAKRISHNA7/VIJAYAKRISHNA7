@@ -203,12 +203,24 @@ Protected routes and token-based authorization, frontend to backend.
 
 <br>
 
-## 🔥 Contribution Heatmap
+## 🗺️ My Roadmap
 
 <div align="center">
 
-<a href="https://github.com/VIJAYAKRISHNA7">
-<img src="https://ghchart.rshah.org/2563eb/VIJAYAKRISHNA7" width="95%" alt="GitHub contribution heatmap" />
-</a>
+<img src="./roadmap.svg" width="100%" alt="My roadmap: Foundation, Full-Stack, AI Engineering, Cloud and Scale, Ship AI Products" />
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 💬 Words to Build By
+
+<div align="center">
+
+<img src="./quotes.svg" width="100%" alt="Rotating developer quotes" />
 
 </div>
