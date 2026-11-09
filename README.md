@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Vijayakrishna R. – AI Developer · Full-Stack Engineer" width="100%" />
+<img src="./banner-animated.svg" alt="Vijayakrishna R. – AI Developer · Full-Stack Engineer" width="100%" />
 
 <br><br>
 
@@ -11,6 +11,30 @@
 <a href="mailto:rvkvijayakrishna0714@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
+
+<br>
+
+## 👨‍💻 About Me
+
+👋 **Hey, I'm Vijayakrishna**, working as a **Full-Stack Developer**.
+
+I build practical products with **Generative AI, LLMs, React and scalable backends**, from idea and architecture to AI integration and deployment.
+
+### ⚡ Recently working with
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+</div>
+
+<br>
+
+---
 
 <br>
 
@@ -46,34 +70,59 @@
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="20%" align="center"><b>🎨 Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,js,html,css,vite,tailwind" alt="Frontend" /></td>
-</tr>
-<tr>
-<td align="center"><b>⚙️ Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,java" alt="Backend" /></td>
-</tr>
-<tr>
-<td align="center"><b>🗄️ Database</b></td>
-<td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Database" /></td>
-</tr>
-<tr>
-<td align="center"><b>🤖 AI</b></td>
-<td>
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<div align="center">
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,js,html,css,vite,tailwind" alt="Frontend" />
+
+<br>
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,java" alt="Backend" />
+
+<br>
+
+### 🗄️ Database & Cloud
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws" alt="Database and cloud" />
+
+<br>
+
+### 🧠 AI & LLM
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 <img src="https://img.shields.io/badge/LLM-6C63FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RAG-00A8E8?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI_Agents-7C4DFF?style=for-the-badge" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>🧰 Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux" alt="Tools" /></td>
-</tr>
-</table>
+
+<br>
+
+### ✨ AI Coding Tools
+<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Windsurf-0B100F?style=for-the-badge&logo=windsurf&logoColor=white" />
+<img src="https://img.shields.io/badge/Lovable-E8478B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity-1A73E8?style=for-the-badge&logo=google&logoColor=white" />
+
+<br>
+
+### 🖌️ Design
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Stitch-8E24AA?style=for-the-badge&logo=google&logoColor=white" />
+
+<br>
+
+### 🧪 API & Testing
+<img src="https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+
+<br>
+
+### 🧰 Dev Tools
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux" alt="Dev tools" />
+
+</div>
 
 <br>
 
@@ -132,18 +181,6 @@ Protected routes and token-based authorization, frontend to backend.
 
 <br>
 
-## 👨‍💻 About Me
-
-I build practical products with **Generative AI, LLMs, React and scalable backends**, from idea and architecture to AI integration and deployment.
-
-🤖 AI apps, LLM systems & RAG &nbsp;·&nbsp; 🌐 Full-stack web apps &nbsp;·&nbsp; 🔐 Secure REST APIs &nbsp;·&nbsp; 🗄️ PostgreSQL & system design
-
-<br>
-
----
-
-<br>
-
 ## 📚 Currently Learning
 
 <div align="center">
@@ -157,5 +194,21 @@ I build practical products with **Generative AI, LLMs, React and scalable backen
 <br><br>
 
 **Build → Ship → Learn → Improve** ⚡
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 🔥 Contribution Heatmap
+
+<div align="center">
+
+<a href="https://github.com/VIJAYAKRISHNA7">
+<img src="https://ghchart.rshah.org/2563eb/VIJAYAKRISHNA7" width="95%" alt="GitHub contribution heatmap" />
+</a>
 
 </div>
